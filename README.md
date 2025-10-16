@@ -1,2 +1,2 @@
 # LincWare-AI-ML-Coding-test
-Here, I have shared my solution in the form of a jupyter notebook with all relevant explanations and logic along with the original data file and question file.
+Here, I have shared my solution in the form of a jupyter notebook with all relevant explanations and logic along with the original data file.
